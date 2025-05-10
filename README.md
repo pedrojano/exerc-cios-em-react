@@ -46,5 +46,5 @@ Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aq
    npm install
 
 4. Execute o projeto:
-```bash
+   ```bash
    npm start
