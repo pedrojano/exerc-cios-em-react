@@ -1,0 +1,20 @@
+# Exercícios em React
+
+Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aqui você encontrará diversos projetos e desafios práticos para aprimorar as habilidades com a biblioteca.
+
+##  Tecnologias utilizadas:
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+##  Lista de Exercícios
+
+1. **Hierarquia de Componentes** - Primeiro componente React criado
+
+##  Como executar os projetos
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/pedrojano/exerc-cios-em-react.git
