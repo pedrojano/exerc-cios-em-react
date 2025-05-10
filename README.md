@@ -18,3 +18,13 @@ Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aq
 1. Clone este repositório:
    ```bash
    git clone https://github.com/pedrojano/exerc-cios-em-react.git
+
+2. Instale as dependências:
+
+```bash
+   npm install
+
+3. Execute o projeto:
+
+```bash
+   npm start
