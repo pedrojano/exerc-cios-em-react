@@ -11,7 +11,7 @@ Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aq
 
 ##  Lista de Exercícios
 
-1. **Hierarquia de Componentes** - Primeiro componente React criado
+1. **Hierarquia de Componentes** - Exercício criado para entender mais sobre a hierarquia de componentes e treinar sua estilização.
 
 ##  Como executar os projetos
 
