@@ -16,7 +16,7 @@ Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aq
 
 # Exercícios em React
 
-Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aqui você encontrará diversos projetos e desafios práticos para aprimorar as habilidades com a biblioteca.
+Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aqui você encontrará diversos exercícios para aprimorar as habilidades com a biblioteca.
 
 ## Tecnologias utilizadas
 
