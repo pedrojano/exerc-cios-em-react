@@ -5,7 +5,7 @@ Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aq
 ##  Tecnologias utilizadas:
 
 - React
-- JavaScript (ES6+)
+- JavaScript 
 - HTML5
 - CSS3
 
