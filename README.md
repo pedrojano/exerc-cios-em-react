@@ -13,7 +13,7 @@ Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aq
 
 1. **Hierarquia de Componentes** - Exercício criado para entender mais sobre a hierarquia de componentes e treinar sua estilização.
 
-markdown
+
 # Exercícios em React
 
 Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aqui você encontrará diversos projetos e desafios práticos para aprimorar as habilidades com a biblioteca.
@@ -28,7 +28,7 @@ Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aq
 
 ## Lista de Exercícios
 
-1. **HIerarquia de Componentes** - Exercício criado para entender mais sobre a hierarquia de componentes e treinar sua estilização
+1. **Hierarquia de Componentes** - Exercício criado para entender mais sobre a hierarquia de componentes e treinar sua estilização
 
 
 ## Como executar os projetos
@@ -47,4 +47,4 @@ Repositório dedicado aos exercícios desenvolvidos durante o curso de React. Aq
 
 4. Execute o projeto:
 ```bash
-npm start
+   npm start
