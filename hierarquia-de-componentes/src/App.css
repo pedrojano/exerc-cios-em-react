@@ -1,0 +1,57 @@
+.App{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.titulo{
+    background-color: blueviolet;
+    color: whitesmoke;
+    font-size: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+}
+
+.titulo:hover{
+    background-color: whitesmoke;
+    color: blueviolet;
+    font-size: 1.7rem;
+    transition: 0.5s;
+}
+
+.quadrado-1 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 100px;
+  height: 100px;
+}
+.quadrado-2 {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  width: 100px;
+  height: 100px;
+} 
+
+.quadrado-3 {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 100px;
+    height: 100px;
+} 
+
+.quadrado-4 {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  width: 100px;
+  height: 100px;
+}

@@ -1,0 +1,14 @@
+.sub-4 {
+    background-color: #b661fb;
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.sub-4 p {
+    color: black;
+    font-size: 1rem;
+    font-weight: bold;
+} 

@@ -1,0 +1,12 @@
+.quadrado-1 {
+  background-color: #61dafbd2;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 1rem;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  margin: 1rem;
+  display: grid;
+  justify-content: center;
+}

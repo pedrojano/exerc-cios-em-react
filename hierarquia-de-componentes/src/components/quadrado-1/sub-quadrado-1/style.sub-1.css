@@ -1,0 +1,15 @@
+.sub-quad-1{
+    background-color: #528634;
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.sub-quad-1 p{
+    color: black;
+    font-size: 1rem;
+    font-weight: bold;
+}   

@@ -1,0 +1,13 @@
+.quadrado-2 {
+  background-color: #528634;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 1rem;
+  text-align: center;
+  margin: 1rem;
+  width: 200px;
+  height: 200px;
+  margin: 1rem;
+  display: grid;
+  justify-content: center;
+}

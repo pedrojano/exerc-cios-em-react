@@ -1,0 +1,14 @@
+.sub-2{
+    background-color: #61dafbd2;
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+} 
+.sub-2 p{
+    color: black;
+    font-size: 1rem;
+    font-weight: bold;
+}
